@@ -1,0 +1,10 @@
+.imageModalDialog {
+  display: inline-block;
+  width: auto;
+}
+.imageModal {
+  text-align: center;
+}
+.imageModalBody img {
+  max-height: calc(100vh - 225px);
+}
